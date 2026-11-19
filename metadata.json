@@ -1,0 +1,6 @@
+{
+  "name": "Mini Kalkulator Balok WF — STEELPRO SNI",
+  "description": "Demo interaktif cek kapasitas lentur balok WF secara instan berdasarkan SNI 1729:2020 Bab F dari suite STEELPRO SNI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
